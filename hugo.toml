@@ -1,0 +1,4 @@
+baseURL = 'https://researcher-stuff.github.io'
+languageCode = 'en-us'
+title = 'All the stuff you want to know buf afraid to ask in researching.'
+theme = 'hugo-theme-texify'
